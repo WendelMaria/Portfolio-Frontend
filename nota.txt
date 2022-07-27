@@ -1,0 +1,1 @@
+El front end es la visualización de la página
