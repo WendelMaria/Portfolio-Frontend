@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(199, 192, 186);
+}
+h5 {
+    background-color: rgb(204, 167, 167);
+    color:white;
+    height: 1cm;
+}
+
+p {
+    background-color: hsl(0, 27%, 22%);
+    height: 1.5cm;
+    color: white;
+}
+
+h3 {
+border-radius: 4cm;
+background-color: azure;
+width: 4cm;
+height: 4cm;
+float: left;
+border:solid rgb(107, 105, 105);
+color: gray;
+}
+h1 {
+    color:rosybrown;
+}
+div.datos {
+ color:white;
+    float: right;
+    width:10cm;  
+    height: 4.5cm;  
+    background-color: hsl(0, 27%, 22%);
+}
+
+div.presentacion {
+background-color: rgba(60,0,0,0.4);
+width: 3cm;
+height: 4cm;
+color:white;
+border-radius: 0.4cm ;
+margin: 0.1cm;
+float: left;
+box-shadow: 5px 5px rgba(2, 0, 4, 0.3);
+}
+
+div.proyectos {
+    margin: 5.5cm;
+    height: 2cm;
+    width: 20cm;
+
+}
